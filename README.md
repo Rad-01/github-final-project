@@ -1,2 +1,2 @@
 # github-final-project
-Corusera
+Coursera
